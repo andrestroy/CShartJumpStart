@@ -8,9 +8,11 @@ namespace ReflectionDemo
 {
     public class BattleGround
     {
+        public string Name { get; set; }
         public void Init()
         {
             //TODO initialize all the game configuration
+            Console.WriteLine("Initializing Game...");
         }
     }
 }
