@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\bin\Debug\ComplexTypes.exe.config
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\obj\Debug\ComplexTypes.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\bin\Debug\ComplexTypes.exe
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\bin\Debug\ComplexTypes.pdb
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\obj\Debug\ComplexTypes.exe
+c:\users\andres\documents\visual studio 2013\Projects\CSharp_JumpStart\ComplexTypes\obj\Debug\ComplexTypes.pdb
