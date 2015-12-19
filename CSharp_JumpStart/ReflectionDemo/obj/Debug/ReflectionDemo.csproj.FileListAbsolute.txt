@@ -1,0 +1,5 @@
+C:\Users\Andres\Documents\GitHub\CShartJumpStart\CSharp_JumpStart\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+C:\Users\Andres\Documents\GitHub\CShartJumpStart\CSharp_JumpStart\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+C:\Users\Andres\Documents\GitHub\CShartJumpStart\CSharp_JumpStart\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\Andres\Documents\GitHub\CShartJumpStart\CSharp_JumpStart\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+C:\Users\Andres\Documents\GitHub\CShartJumpStart\CSharp_JumpStart\ReflectionDemo\obj\Debug\ReflectionDemo.pdb
